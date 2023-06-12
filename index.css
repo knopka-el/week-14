@@ -9,3 +9,10 @@
   font-weight: bold;
   margin-bottom: 10px;
 }
+#topFilms {
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  font-size: 24px;
+  font-weight: bold;
+}
